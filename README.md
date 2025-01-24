@@ -2,7 +2,7 @@
   
 👀 I’m interested in Full-Stack Development.
   
-🕸️ __Live Projects:__
+🕸️ __Live Projects (What I've Built):__
 
   [Browser Game](https://guess-game-b3jo.onrender.com/) (full-stack - React.js, Node.js, Tailwindcss, PostgreSQL, Docker)
 
