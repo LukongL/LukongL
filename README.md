@@ -1,6 +1,6 @@
 👋 Hi, I’m Liliane.
   
-👀 I’m interested in Full-Stack Development, and UX Design.
+👀 I’m interested in Full-Stack Development.
   
 🕸️ __Live Projects:__
 
