@@ -13,7 +13,7 @@
   
 🏗️ __Standalone Applications:__
  
-  [ChatApp](https://github.com/LukongL/ChatApp/releases/tag/v1.0.0)
+  [ChatApp](https://github.com/LukongL/ChatApp/releases/tag/v1.0.0) (Initial Release, Java Application)
   
 💞️ I’m looking to collaborate on open-source projects, backend development with Django and Spring, complex Java-based software development projects, front-end frameworks like React.js, and UX design initiatives that bridge code and user experience.
 
