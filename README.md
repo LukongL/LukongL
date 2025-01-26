@@ -15,7 +15,7 @@
  
   [ChatApp](https://github.com/LukongL/ChatApp) (Java Application) [Initial Release](https://github.com/LukongL/ChatApp/releases/tag/v1.0.0) 
   
-💞️ I’m looking to collaborate on open-source projects, backend development with Django and Spring, complex Java-based software development projects, front-end frameworks like React.js, and UX design initiatives that bridge code and user experience.
+💞️ Experienced in full-stack web development, working with React for building dynamic frontends and Node.js for backend services. Skilled in database management using MongoDB and PostgreSQL, ensuring secure and efficient data handling. Focused on creating responsive and user-friendly interfaces with Tailwind CSS, while implementing RESTful APIs to connect applications seamlessly. Adept at deploying projects using Render and Docker, optimizing performance and scalability. Strong commitment to writing clean, maintainable code and leveraging GitHub for version control and collaboration.
 
 📫 How to reach me: __liliane.haniel@gmail.com__
 
