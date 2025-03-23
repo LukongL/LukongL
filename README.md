@@ -1,6 +1,6 @@
 👋 Hi, I’m Liliane.
   
-👀 I’m interested in Full-Stack Development.
+👀 I’m a Full-Stack Developer.
   
 🕸️ __Live Projects:__
 
